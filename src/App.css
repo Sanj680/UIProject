@@ -1,0 +1,39 @@
+@import '~antd/dist/antd.css';
+
+
+  
+  .button{
+    align-self: flex-start;
+    display: flex;
+    align-items: center;
+    margin-top: 10rem;
+    padding-top: 1%;
+    width:100px;
+    margin: 0px 25px 0.15rem 658px;
+  }
+
+
+  .done{
+    align-self: flex-start;
+    display: flex;
+    align-items: center;
+    margin-top: 90rem;
+    width:120px;
+    margin: 0px 45px 0.15rem 770px;
+    display: flex;
+    
+
+  }
+ .form{
+   margin-left: 1%;
+  
+ }
+.table{
+  margin-top: 10px;
+ margin-left: 250px;
+ margin-right: 200px;
+
+}
+
+
+

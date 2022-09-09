@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/*
+{ studentList.map ((field, index ) => (
+  <Form >
+  < div key = {index}>
+  <Space  direction = "horizontal">
+           <Form.Item 
+           name="Value1"
+            label =" 0"
+             value={field.Value1}
+             rules = { [ {required : true , message : " Value required . " },]}>
+             <Input placeholder="Value" />
+           </Form.Item>
+
+           <Form.Item 
+           name="Value1"
+            label =" 0"
+             value={field.Value1}
+             rules = { [ {required : true , message : " Value required . " },]}>
+             <Input placeholder="Value" />
+           </Form.Item>
+           
+           <Form.Item 
+           name="Value1"
+            label =" 0"
+             value={field.Value1}
+             rules = { [ {required : true , message : " Value required . " },]}>
+             <Input placeholder="Value" />
+           </Form.Item>
+
+           <Form.Item 
+           name="Value1"
+            label =" 0"
+             value={field.Value1}
+             rules = { [ {required : true , message : " Value required . " },]}>
+             <Input placeholder="Value" />
+           </Form.Item>
+           </Space>
+           
+     
+   
+         
+*/
